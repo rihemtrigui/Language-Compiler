@@ -9,6 +9,5 @@ Error Handling: Basic error detection for invalid tokens and incomplete structur
 Prerequisites
 # GCC or any standard C compiler.
 Standard C libraries: stdio.h, stdlib.h, string.h, ctype.h.
-# Installation
-To install and run this project on your local machine:
+
 
